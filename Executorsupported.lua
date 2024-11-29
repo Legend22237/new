@@ -1,1 +1,1 @@
-{ "Wave", "Solara", "Xeno" }
+return { "Wave", "Solara", "Xeno" }
