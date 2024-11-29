@@ -1,1 +1,1 @@
-local list = { "Wave", "Solara", "Xeno" }
+{ "Wave", "Solara", "Xeno" }
