@@ -66,7 +66,7 @@ uselesslabelone.BackgroundTransparency = 1.000
 uselesslabelone.Position = UDim2.new(0.302473009, 0, 0, 0)
 uselesslabelone.Size = UDim2.new(0, 95, 0, 24)
 uselesslabelone.Font = Enum.Font.SourceSans
-uselesslabelone.Text = "Anti Afk V2"
+uselesslabelone.Text = "Anti Afk Kick V2"
 uselesslabelone.TextColor3 = Color3.fromRGB(255, 255, 255)
 uselesslabelone.TextSize = 14.000
 
